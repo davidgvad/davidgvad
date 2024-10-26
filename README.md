@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Gvadzabia</h1>
-<h3 align="center">A passionate software engineer from Georgia who is looking forward to changing the world :)</h3>
+<h2 align="left">Hi 👋! My name is David Gvadzabia, and I'm a passionate software/hardware engineer passionate to change the world :)</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidgvad&label=Profile%20views&color=0e75b6&style=flat" alt="davidgvad" /> </p>
 
@@ -29,10 +28,6 @@
 ###
 
 <img align="right" height="150" src="https://th.bing.com/th/id/OIP.nrVXW06MLDZOxnpjGjlabAAAAA?rs=1&pid=ImgDetMain"  />
-
-###
-
-<h2 align="left">Hi 👋! My name is David Gvadzabia, and I'm a passionate software/hardware engineer passionate to change the world :)</h2>
 
 ###
 
@@ -85,34 +80,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/david_gvadz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="gvadzabd@lafayette.edu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/davidgvad/davidgvad/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/davidgvad/davidgvad/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/davidgvad/davidgvad/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/davidgvad/davidgvad/output/snake.svg" alt="Snake animation" />
 
 ###
