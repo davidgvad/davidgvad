@@ -16,7 +16,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -65,7 +64,7 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/OIP.nrVXW06MLDZOxnpjGjlabAAAAA?rs=1&pid=ImgDetMain"  />
+<img align="center" height="150" src="https://th.bing.com/th/id/OIP.nrVXW06MLDZOxnpjGjlabAAAAA?rs=1&pid=ImgDetMain"  />
 
 ###
 
