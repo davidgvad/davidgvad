@@ -59,5 +59,4 @@
 
 ###
 <img align="center" height="150" src="https://th.bing.com/th/id/OIP.nrVXW06MLDZOxnpjGjlabAAAAA?rs=1&pid=ImgDetMain"  />
-###
 
