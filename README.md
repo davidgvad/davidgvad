@@ -105,7 +105,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/davidgvad/davidgvad/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/davidgvad/davidgvad/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
