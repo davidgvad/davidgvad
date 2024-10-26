@@ -58,13 +58,6 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=davidgvad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <img align="center" height="150" src="https://th.bing.com/th/id/OIP.nrVXW06MLDZOxnpjGjlabAAAAA?rs=1&pid=ImgDetMain"  />
-
 ###
 
