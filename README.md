@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is David Gvadzabia, and I'm a passionate software/hardware engineer eager to change the world :)</h2>
+<h2 align="left">Hello 👋! My name is David Gvadzabia, and I'm a passionate software/hardware engineer eager to change the world :)</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidgvad&label=Profile%20views&color=0e75b6&style=flat" alt="davidgvad" /> </p>
 
