@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Efficient implementation of Verkle Tree**
 
-- 🌱 I’m currently learning **Merkle Tree Structures, Algorithm analysis**
+- 🌱 I’m currently learning **Merkle Tree Structures, Algorithm Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidgvad](https://github.com/davidgvad)
 
