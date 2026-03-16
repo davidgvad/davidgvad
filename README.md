@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Efficient implementation of Verkle Tree**
 - 🌱 I’m currently learning **Merkle Tree Structures, Algorithm Analysis**
-- 👨‍💻 All of my projects are available at [github.com/davidgvad](https://github.com/davidgvad)
+- 👨‍💻 All of my projects are available at [https://github.com/davidgvad](https://github.com/davidgvad)
 - 📫 How to reach me: **gvadzabd@lafayette.edu**
 
 <h3 align="left">Connect with me:</h3>
@@ -35,10 +35,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="Raspberry Pi" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="30" alt="Visual Studio" />
-</p> src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" />
-</p>
-
-<p align="center">
-  <img height="150" src="YOUR_DIRECT_IMAGE_LINK_HERE" alt="Banner image" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" />
 </p>
